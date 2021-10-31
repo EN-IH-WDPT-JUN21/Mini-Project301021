@@ -51,6 +51,7 @@ On http://localhost:8840/:
 
 On http://localhost:8600/:
 <ul>
+  <li> Method: POST -- Route: adopt -- Response: Adopt an animal </li>
 <li> Method: GET -- Route: adopt?startAge=XX&endAge=XX&type=XX -- Response: Get pet by age range and type </li>
 <li> Method: POST -- Route: adopt/{id} -- Response: Adopt a pet by id </li>
 </ul>
